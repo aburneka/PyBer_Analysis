@@ -28,14 +28,16 @@ The timeframe for the data was from January 1, 2019 through April 30, 2019.
 
 ## Overview of the analysis: 
 
-#### PyBer Weekly Fare Summary 
 
-![PyBer_fare_summary](https://user-images.githubusercontent.com/79999761/115161806-812f7480-a054-11eb-931d-5c0ec7df0cd0.png)
 
 ## Differences Between Cities 
 
+#### Summary of Fares by City Type 
+
+<img width="604" alt="Rides by City Type " src="https://user-images.githubusercontent.com/79999761/115161902-0d419c00-a055-11eb-8108-a5e3e6927392.png">
+
 ### Rural Cities 
- As seen in the Summary of Fares by City Type image the average fare per driver and average fare per ride in rural areas is much higher than urban and suburban locations. This is likely due to the length or distance of the rides in rural areas. There are also fewer drivers in rural areas, 78, and would mean less competition for drivers. There are also a fraction of total rides in rural areas. 
+ As seen in the Summary of Fares by City Type image above, the average fare per driver and average fare per ride in rural areas is much higher than urban and suburban locations. This is likely due to the length or distance of the rides in rural areas. There are also fewer drivers in rural areas, 78, and would mean less competition for drivers. There are also a fraction of total rides in rural areas. 
  
 
 ### Suburban Cities 
@@ -52,10 +54,10 @@ In the image below we can see that the urban total fares increased from January 
 
 Suburban and urban fare totals look consistent over the 4 months in 2019. All three city types have a spike in weekly fare totals in the 3rd week in Februrary. 
 
+#### PyBer Weekly Fare Summary 
 
-#### Summary of Fares by City Type 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/79999761/115161806-812f7480-a054-11eb-931d-5c0ec7df0cd0.png)
 
-<img width="604" alt="Rides by City Type " src="https://user-images.githubusercontent.com/79999761/115161902-0d419c00-a055-11eb-8108-a5e3e6927392.png">
 
 
 ## Reccomendations 
@@ -67,7 +69,5 @@ Suburban and urban fare totals look consistent over the 4 months in 2019. All th
 **3. Could also consider technology that wouled allow drivers that do commute to larger cities the ability to pick up rides along there commute. This may cut down on competition in urban areas and allow drivers that commute from other areas to have a variety of ride types - both long and short. This could increase the number of rides and therefore also increase the average fare per driver and average fair per ride. 
 
 
-
-## Summary 
 
 
