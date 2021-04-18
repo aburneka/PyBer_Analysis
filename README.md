@@ -62,9 +62,9 @@ Suburban and urban fare totals look consistent over the 4 months in 2019. All th
 
 ## Reccomendations 
 
-**1. Increasing the cost of rides in urban areas.** Beccuase there are so many drivers and the ride distance or length of ride time is much shorter than suburban and urban areas, the prices could be increased to make the average fare per ride and average fare per driver more equitable. 
+**1. Increasing the cost of rides in rural and suburban areas.** While the averages in urban areas are much loewr, the total number of rides is significantly higher, allowing drivers to ultimately make more even though it is more competitive. Increasing the cost of rides in other city types could attract more drivers, increasing the total number of rides. 
 
-**2. Having drivers stay in their respective markets instead of edriving to urban areas.** Bawsed on the number of drivers in urban areas, these drivers are most likely leaving there homes to drive in urban areas. There must be some sort of perceptioon that they can make more if they are driving in urban areas vs. rural areas, however the average fare per ride and average fare per driver is higher in suburban and rural areas. PyBer could incentivize drivers to drive in different city types, not just urban areas. 
+**2. Having drivers stay in their respective markets instead of driving to urban areas.** Based on the number of drivers in urban areas, these drivers are most likely leaving there homes to drive in urban areas. There must be some sort of perceptioon that they can make more if they are driving in urban areas vs. rural areas, however the average fare per ride and average fare per driver is higher in suburban and rural areas. PyBer could incentivize drivers to drive in different city types, not just urban areas. 
 
 **3. Could also consider technology that wouled allow drivers that do commute to larger cities the ability to pick up rides along there commute.** This may cut down on competition in urban areas and allow drivers that commute from other areas to have a variety of ride types - both long and short. This could increase the number of rides and therefore also increase the average fare per driver and average fair per ride. 
 
